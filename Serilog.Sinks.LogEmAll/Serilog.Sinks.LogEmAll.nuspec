@@ -2,15 +2,23 @@
 <package>
   <metadata>
     <id>Serilog.Sinks.LogEmAll</id>
-    <version>0.0.2</version>
     <title>Serilog.Sinks.LogEmAll</title>
+    <version>0.0.3</version>
+    <description>Use the LogEmAll Library (.dll) to write Serilog events to a List&lt;String&gt; or a Windows Forms Application RichTextBox control from anywhere in your application.  
+  
+Install or add the LogEmAll Nuget Package to your application by downloading the [nuget.nupkg](https://github.com/TwistedTommy?tab=packages&amp;repo_name=Serilog.Sinks.LogEmAll) to your project folder and opening a Nuget Package Manager Console in Visual Studio and type:  
+  
+```
+Install-Package nuget.nupkg
+```
+	</description>
     <authors>LogEmAll</authors>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="file">LICENSE</license>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <icon>icon.png</icon>
+    <iconUrl>https://github.com/TwistedTommy/Serilog.Sinks.LogEmAll/raw/master/Serilog.Sinks.LogEmAll/Resources/icon.png</iconUrl>
     <projectUrl>https://github.com/TwistedTommy/Serilog.Sinks.LogEmAll</projectUrl>
-    <description>The Original LogEmAll Logger</description>
-    <releaseNotes>Writes Serilog events to a List&lt;String&gt; or a Windows Forms Application RichTextBox control from anywhere in your application.</releaseNotes>
+    <releaseNotes>See https://github.com/TwistedTommy/Serilog.Sinks.LogEmAll/releases for release notes.</releaseNotes>
     <copyright>Copyright (c) 2016-2022 LogEmAll - All Rights Reserved</copyright>
     <tags>Serilog Sinks LogEmAll Sink Logs Log WinForms SerilogSink SerilogSinksLogEmAll Windows Forms Application Console RichTextBox RichTextBoxLog ListStringLog Logger</tags>
 	<repository type="git" url="https://github.com/TwistedTommy/Serilog.Sinks.LogEmAll.git" />

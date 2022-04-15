@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Serilog.Sinks.LogEmAll")]
-[assembly: AssemblyDescription("The Original Automated LogEmAll Logger")]
+[assembly: AssemblyDescription("The Original LogEmAll Logger")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("LogEmAll")]
 [assembly: AssemblyProduct("Serilog.Sinks.LogEmAll")]
 [assembly: AssemblyCopyright("Copyright (c) 2020-2022 LogEmAll - All Rights Reserved")]
-[assembly: AssemblyTrademark("LogEmAll")]
+[assembly: AssemblyTrademark("LogEmAll - The Original LogEmAll Logger")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("0.0.2")]
-[assembly: AssemblyFileVersion("0.0.2")]
+[assembly: AssemblyVersion("0.0.3")]
+[assembly: AssemblyFileVersion("0.0.3")]
